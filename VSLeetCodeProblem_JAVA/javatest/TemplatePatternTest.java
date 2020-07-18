@@ -1,4 +1,4 @@
-package Java_test;
+package javatest;
 
 public class TemplatePatternTest {
     public static void main(String[] args) {

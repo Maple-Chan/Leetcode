@@ -1,0 +1,64 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "leetcode104.Solution",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaMoveBitTest",
+            "request": "launch",
+            "mainClass": "javatest.JavaMoveBitTest",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaMoveBitTest",
+            "request": "launch",
+            "mainClass": "Java_test.JavaMoveBitTest",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaQueue",
+            "request": "launch",
+            "mainClass": "Java_test.JavaQueue",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "leetcode101.Solution",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "leetcode100.Solution",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "leetcode687.Solution",
+            "projectName": "VSLeetCodeProblem_JAVA_9cc48785"
+        }
+    ]
+}

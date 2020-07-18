@@ -1,5 +1,12 @@
-package z_leetcode_util;
+package zleetcodeutil;
 
+/**
+ * @description:
+ * @modifyContent:
+ * @author: Maple Chan
+ * @date: 2020-07-14 11:07:10
+ * @version: 0.0.1
+ */
 public class ListNode {
     public int val;
     public ListNode next;

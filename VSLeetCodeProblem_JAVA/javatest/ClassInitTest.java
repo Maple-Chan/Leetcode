@@ -1,4 +1,4 @@
-package Java_test;
+package javatest;
 
 public class ClassInitTest {
 
